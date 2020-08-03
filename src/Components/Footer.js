@@ -13,8 +13,6 @@ class Footer extends React.Component {
                                 <p className="details">
                                     E-Mail: 9643321zapdos.com <br />
                                     Phone:  +91 8248696174 <br />
-                                    Address: 101 A Baracah Road, <br />
-                                            Chennai 600010, India.
                                 </p>
                             </MDBCol>
                             <MDBCol md="6">

@@ -78,11 +78,12 @@ class Home extends React.Component {
                     <h2>Irrationality</h2>
                     <h3>The golden ratio is an irrational number.</h3>
                     <br />
-                    <h2>Plynomial</h2>
+                    <h2>Polynomial</h2>
                     <h3>The golden ratio is an algebic number and also has an algebric integer. One of the root of the minimal polynimoial is the conjugate of the golden ratio. The absolute value of this quantity (≈ 0.618) corresponds to the length ratio taken in reverse order (shorter segment length over longer segment length, b/a), and is sometimes referred to as the golden ratio conjugate or silver ratio. It is denoted here by the capital Phi (φ).</h3>
                     <br />
                     <h2>Geometry</h2>
                     <h3>The number φ turns up frequently in geometry. Particularly in figures associated with pentagonal symmetry. The length of a regular pentagon's diagonal is φ times its side. The vertices of a regular icosahedron are those of three mutually orthogonal golden rectangles.</h3>
+                    <br />
                     <img src={GoldenMath}></img>
                     <br />
                 </div>
