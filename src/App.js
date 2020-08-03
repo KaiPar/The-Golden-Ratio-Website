@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import My_Sidebar from './Components/My_Sidebar';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./Components/Home"
+import Home from "./Components/Home";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
           <Route path="/Simulator" component={Home} />
           <Route path="/Illustrations" component={Home} />
         </Switch>
-      </Router>      
+      </Router>
+      <Footer />
     </div>
   );
 }
