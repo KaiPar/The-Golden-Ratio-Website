@@ -128,14 +128,41 @@
 .golden {
   color: #FFD700;
   margin-top: 0;
+  padding-top: 2%;
 }
 
 .content {
   padding-left: 7%;
   padding-top: 3%;
   color: #f8f8f8;
+  word-wrap: break-word;
+  margin-bottom: 0;
 }
 
 .body {
   font-size: x-large;
+}
+
+td {
+  width: fit-content;
+  text-align: center;
+  padding-right: 10%;
+}
+
+.goldenRatio {
+  width: 80%;
+}
+
+tr {
+  padding-right: 10%;
+}
+
+.kamil {
+  height: 20%;
+}
+
+.math {
+  text-align: center;
+  color: #FFD700;
+  margin-bottom: 0;
 }
